@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "name": "Inclusive Cycle Design for Individuals with Autism",
+      "category": "Assistive Technology",
+      "description": "To create a cycle tailored to meet the unique needs of individuals with autism, providing a safe, comfortable, and empowering means of mobility that enhances independence, physical health, and social interaction."
+    },
+    {
+      "name": "AI-Based Crowd Density Detection Using YOLO (You Only Look Once)",
+      "category": "Artificial Intelligence",
+      "description": "The goal of this project is to develop an AI-based system for real-time crowd density detection in public spaces using the YOLO (You Only Look Once) object detection algorithm. This system will identify and monitor crowd levels to enhance safety, manage space utilization, and provide actionable insights for crowd control in areas such as events, transport hubs, and public gatherings."
+    },
+    {
+      "name": "Basic Web Calculator Using HTML, CSS, and JavaScript",
+      "category": "Web Development",
+      "description": "This project is a simple, responsive web-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. Designed using HTML for the structure, CSS for styling, and JavaScript for functionality."
+    },
+    {
+      "name": "Expense Tracker",
+      "category": "Finance",
+      "description": "A web-based application that helps users track their expenses and manage their budget by categorizing and summarizing their spending patterns. Users can log daily expenses, set budgets, and analyze their financial habits."
+    },
+    {
+      "name": "Object Detection Using YOLO",
+      "category": "Computer Vision",
+      "description": "This project involves using the YOLO (You Only Look Once) object detection algorithm to detect and classify objects in real-time video streams or images. It can be applied to various use cases like surveillance, autonomous driving, and retail."
+    }
+  ]
+}
